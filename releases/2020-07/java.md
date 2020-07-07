@@ -176,3 +176,4 @@ These new packages share the same groupId ``com.azures.resourcemanager`` and art
 {% include java-packages.html %}
 
 {% include refs.md %}
+ 
