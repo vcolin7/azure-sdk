@@ -51,6 +51,8 @@ If you have a bug or feature request for one of the libraries, please post an is
 
 ### _Package name_
 
+#### _Version_(_Link to Changelog_)
+
 - Major changes only!
   
 ## Need help
